@@ -3,6 +3,7 @@ Class GitTestProg
 {
 public static void main(String[] args)
 {
-system.out.print("Hello Git....");
+System.out.print("Hello Git....");
+System.out.println("my 2nd line of code")
 }
 }
