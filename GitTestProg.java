@@ -5,7 +5,7 @@ public static void main(String[] args)
 {
 System.out.print("Hello Git....");
 System.out.println("my 2nd line of code");
-int i=20;
+int i=0;
 System.out.println(" i = "+i);
 
 }
