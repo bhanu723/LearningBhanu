@@ -1,5 +1,5 @@
 //Learning Git & GitHub
-Class GitTestProg
+class GitTestProg
 {
 public static void main(String[] args)
 {
